@@ -1,12 +1,14 @@
 # Challenges
 ## Foobar - Multiple of
+### How to run: cd Foobar node app.js;
 Scrivi un piccolo programma che stampi ogni numero da 1 a 100 su una nuova riga.
 Per ogni multiplo di 3, stampa “Foo” invece del numero. 
 Per ogni multiplo di 5, stampa “Bar” invece del numero. 
 Per ogni numero multiplo di 3 e 5 insieme, stampa “FooBar” invece del numero.
 
-## Rock, paper & scissors
+## Rock, Paper & Scissors
 
+### How to run: cd RockPaperScissors/RockPaperScissors.Project; dotnet run;
 Sono un assiduo giocatore, per questo voglio giocare a “carta forbice e sasso”.
   
 Acceptance Criteria
