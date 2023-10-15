@@ -1,0 +1,20 @@
+[
+    {
+        "Id": 1,
+        "Name": "Rock",
+        "Beats": [3],
+        "IsBeaten": [2]
+    },
+    {
+        "Id": 2,
+        "Name": "Paper",
+        "Beats": [1],
+        "IsBeaten": [3]
+    },
+    {
+        "Id": 3,
+        "Name": "Scissors",
+        "Beats": [2],
+        "IsBeaten": [1]
+    }
+]
