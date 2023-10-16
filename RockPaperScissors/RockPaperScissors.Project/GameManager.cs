@@ -13,6 +13,7 @@ public class GameManager
         Console.WriteLine("Please, select one option from this menu:");
         Console.WriteLine("0: Human vs Computer");
         Console.WriteLine("1: Computer vs Computer");
+        Console.WriteLine("2: Exit");
 
         string? untypedUserSelection = Console.ReadLine();
 

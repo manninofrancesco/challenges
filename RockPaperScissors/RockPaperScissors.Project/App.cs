@@ -23,7 +23,12 @@ while (true)
 
             secondPlayerWeapon = gameManager.GetRandomWeapon(weapons);
         }
-        
+        else
+        {
+            Console.WriteLine($"\nThank you.\n");
+            break;
+        }
+
         if (firstPlayerWeapon is not null && secondPlayerWeapon is not null)
         {
             Console.WriteLine($"\nPlayer1 selection is: {firstPlayerWeapon.Name}");

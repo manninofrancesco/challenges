@@ -1,4 +1,5 @@
 public enum GameModesEnum{
     HumanVsComputer,
-    ComputerVsComputer
+    ComputerVsComputer,
+    Quit
 }
